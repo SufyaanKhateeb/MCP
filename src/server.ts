@@ -44,7 +44,7 @@ server.resource(
   "user-details",
   new ResourceTemplate("users://{userId}/profile", { list: undefined }),
   {
-    description: "Get a user's details from teh database",
+    description: "Get a user's details from the database",
     title: "User Details",
     mimeType: "application/json",
   },
