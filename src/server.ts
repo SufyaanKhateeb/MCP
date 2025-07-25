@@ -140,7 +140,7 @@ server.tool(
               role: "user",
               content: {
                 type: "text",
-                text: "Generate fake user data. The user should have a realistic name, email, address, and phone number. Return this data as a JSON object with no other text or formatter so it can be used with JSON.parse.",
+                text: "Generate fake user data. The user should have a realistic name, email, address, age, and phone number. Return this data as a JSON object with no other text or formatter so it can be used with JSON.parse.",
               },
             },
           ],
@@ -190,7 +190,7 @@ server.prompt(
           role: "user",
           content: {
             type: "text",
-            text: `Generate a fake user with the name ${name}. The user should have a realistic email, address, and phone number.`,
+            text: `Generate a fake user with the name ${name}. The user should have a realistic email, address, age, and phone number.`,
           },
         },
       ],

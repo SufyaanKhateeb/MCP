@@ -38,19 +38,5 @@
     "address": "123 Main St",
     "age": 30,
     "phone": "123-456-7890"
-  },
-  {
-    "id": 6,
-    "name": "Jessica Ramirez",
-    "email": "jessica.ramirez82@gmail.com",
-    "address": "1842 Willowbrook Lane, Austin, TX 78758",
-    "phone": "(512) 555-3482"
-  },
-  {
-    "id": 7,
-    "name": "Jessica Ramirez",
-    "email": "jessica.ramirez82@gmail.com",
-    "address": "1842 Willowbrook Lane, Austin, TX 78758",
-    "phone": "(512) 555-3472"
   }
 ]
