@@ -48,3 +48,7 @@ The `src/server.ts` file contains the code for creating an MCP server and defini
 
 #### Prompts
 - **generate-fake-user**: Prompt with fixed fields for generating fake user data
+
+#### Sampling
+- **create-random-user**: This uses sampling i.e. calling requests on the LLM or clientto generate something.
+
