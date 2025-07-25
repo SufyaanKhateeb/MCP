@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Smith",
+        "email": "alice@gmail.com",
+        "age": 30,
+        "address": "123 Maple Street, Springfield, IL",
+        "phone": "123-456-7890"
+    },
+    {
+        "id": 2,
+        "name": "Bob Johnson",
+        "email": "bob@gmail.com",
+        "age": 25,
+        "address": "456 Oak Avenue, Springfield, IL",
+        "phone": "987-654-3210"
+    },
+    {
+        "id": 3,
+        "name": "Charlie Brown",
+        "email": "charlie@gmail.com",
+        "age": 28,
+        "address": "789 Pine Road, Springfield, IL",
+        "phone": "555-123-4567"
+    },
+    {
+        "id": 4,
+        "name": "Hassan",
+        "email": "hassan@gmail.com",
+        "address": "some address",
+        "age": 34,
+        "phone": "7632891828"
+    },
+    {
+        "id": 5,
+        "name": "John Doe",
+        "email": "example@example.com",
+        "address": "123 Main St",
+        "age": 30,
+        "phone": "123-456-7890"
+    },
+    {
+        "id": 6,
+        "name": "Jessica Ramirez",
+        "email": "jessica.ramirez82@gmail.com",
+        "address": "1842 Willowbrook Lane, Austin, TX 78758",
+        "phone": "(512) 555-3482"
+    },
+    {
+        "id": 7,
+        "name": "Jessica Ramirez",
+        "email": "jessica.ramirez82@gmail.com",
+        "address": "1842 Willowbrook Lane, Austin, TX 78758",
+        "phone": "(512) 555-3472"
+    }
+]
